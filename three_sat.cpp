@@ -1,3 +1,15 @@
+/* ========================================================================
+   $File: three_sat.cpp $
+   $Date: 2010/09/24 $
+   $Revision: 6 $
+   $Creator: Frederic Gillet $
+   $Notice:
+
+   The author of this software MAKES NO WARRANTY as to the RELIABILITY,
+   SUITABILITY, or USABILITY of this software. USE IT AT YOUR OWN RISK.
+
+   ======================================================================== */
+
 #include <stdint.h>
 #include <stddef.h>
 #include <stdio.h>
